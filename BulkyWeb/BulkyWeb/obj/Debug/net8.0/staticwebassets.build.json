@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "/p33zlg2me4JcJP1dhxnc+r8vfDh/jiVaUEwapvpHg0=",
+  "Source": "BulkyWeb",
+  "BasePath": "_content/BulkyWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "BulkyWeb.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "BulkyWeb.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css"
+    }
+  ]
+}
