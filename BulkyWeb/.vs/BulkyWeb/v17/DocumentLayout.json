@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\models\\categoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\categoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\models\\categoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\models\\categoty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F52C515-31BA-400C-85BF-1C89EB9DD989}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\topha\\documents\\github\\mvc_bulkyweb\\bulkyweb\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -66,11 +90,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T18:11:39.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T17:58:46.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T17:45:18.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T09:47:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T10:05:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T10:03:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T11:47:56.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T10:10:22.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoty.cs",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Models\\Categoty.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Models\\Categoty.cs",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Models\\Categoty.cs",
+              "RelativeToolTip": "BulkyWeb\\Models\\Categoty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:36:01.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T10:01:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BulkyWeb.csproj",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
               "RelativeDocumentMoniker": "BulkyWeb\\BulkyWeb.csproj",
@@ -78,60 +231,35 @@
               "RelativeToolTip": "BulkyWeb\\BulkyWeb.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-21T11:11:45.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T11:11:45.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentIndex": 11,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\order.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\order.js",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\order.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\order.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T10:10:22.644Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-21T11:22:57.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T09:47:00.684Z"
+              "DocumentIndex": 10,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-21T11:23:16.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T10:01:42.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T10:05:11.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Home\\Privacy.cshtml",
@@ -143,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Data\\ApplicationDbContext.cs",
@@ -155,19 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-21T10:03:57.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
@@ -179,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Models\\ErrorViewModel.cs",
@@ -191,19 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Categoty.cs",
-              "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Models\\Categoty.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Models\\Categoty.cs",
-              "ToolTip": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Models\\Categoty.cs",
-              "RelativeToolTip": "BulkyWeb\\Models\\Categoty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:36:01.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\appsettings.json",
               "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
@@ -215,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
@@ -227,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\topha\\Documents\\GitHub\\MVC_BulkyWeb\\BulkyWeb\\BulkyWeb\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BulkyWeb\\appsettings.Development.json",
